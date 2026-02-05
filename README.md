@@ -139,16 +139,6 @@ pip install -r requirements.txt
 
 ---
 
-## Development
-
-### Branch Naming
-`[type]/[name]` — e.g., `feat/similarity-weights`, `fix/data-alignment`
-
-### Commit Messages
-- `feat(model): add volatility feature`
-- `fix(eval): correct Sharpe calculation`
-
----
 
 ## References
 
